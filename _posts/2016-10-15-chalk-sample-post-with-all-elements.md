@@ -6,6 +6,12 @@ thumb_image: "documentation/sample-image.jpg"
 tags: [design, jekyll]
 ---
 
+# Вот это шрифт!
+
+## Путь Черепах
+
+Задача приложения — составить и структурировать очень разные и порой трудноописумемые цели, достижение которых требует длительного времени или состоит из разнородных и мелких подцелей. Оно создано для таких людей, которым важно понимать не только, что они уже сделали или что им предстоит сделать, но и контроллировать каждый шаг выполнения, не попасться в плен слишком абстрактной цели и всегда понимать, какой шаг следует выполнить для продвижения!  Однако, и простые, мелкие и даже рутинные задачи могут быть
+
 Chalk uses the default Jekyll syntax highlighting gem Rouge. It has a customized style for both light and dark theme.
 Use the `highlight` tag to use the following code highlighting your preferred language:
 
